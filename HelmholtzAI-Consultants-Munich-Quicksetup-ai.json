@@ -1,0 +1,8 @@
+{
+    "title": "Quicksetup-AI",
+    "summary": "A flexible template as a quick setup for deep learning projects in research",
+    "tags": [ "python", "helmholtz-ai", "hydra", "pytorch", "lightning" ],
+    "picture": "pictures/Helmholtz-AI.png",
+    "gitLink": "https://github.com/HelmholtzAI-Consultants-Munich/Quicksetup-ai",
+    "gitCheckout": "main"
+}

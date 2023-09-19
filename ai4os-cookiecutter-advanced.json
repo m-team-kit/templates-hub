@@ -1,0 +1,8 @@
+{
+    "title": "AI4OS Template (advanced)",
+    "summary": "An advanced template for AI4OS platform, which makes more assumptions on how to your project can be integrated",
+    "tags": [ "python", "ai4os", "ai4eosc" ],
+    "picture": "pictures/ai4eosc-vertical-transparent.png",
+    "gitLink": "https://github.com/deephdc/cookiecutter-deep",
+    "gitCheckout": "advanced"
+}
