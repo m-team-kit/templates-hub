@@ -1,0 +1,8 @@
+{
+    "title": "AI4OS Template (minimal)",
+    "summary": "Simple, minimal template, with the minimum requirements to integrate your code in AI4OS platform",
+    "tags": [ "python", "ai4os", "ai4eosc" ],
+    "picture": "pictures/ai4eosc-vertical-transparent.png",
+    "gitLink": "https://github.com/deephdc/cookiecutter-deep",
+    "gitCheckout": "master"
+}
