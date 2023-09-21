@@ -1,0 +1,8 @@
+{
+    "title": "Cookiecutter Data Science",
+    "summary": "A logical, reasonably standardized, but flexible project structure for doing and sharing data science work",
+    "tags": [ "python", "data science" ],
+    "picture": "pictures/cookiecutter_simple_medium.png",
+    "gitLink": "https://github.com/drivendata/cookiecutter-data-science",
+    "gitCheckout": "v1"
+}
