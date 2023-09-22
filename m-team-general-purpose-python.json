@@ -1,0 +1,8 @@
+{
+    "title": "General Python3 Template",
+    "summary": "A general purpose template that supports tox, pytest, pip/twine, ...",
+    "tags": [ "python" ],
+    "picture": "",
+    "gitLink": "https://git.scc.kit.edu/m-team/python3-template",
+    "gitCheckout": "main"
+}
