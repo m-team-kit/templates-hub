@@ -1,0 +1,15 @@
+name: Update database
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+     update-database:
+        name: Update
+        runs-on: ubuntu-latest
+        steps:
+        - name: Update
+          run: |
+            curl -X POST "https://templates.services.fedcloud.eu/api/latest/db:update" -H "Authorization: Bearer ${{ secrets.API_ADMIN_SECRET }}"
