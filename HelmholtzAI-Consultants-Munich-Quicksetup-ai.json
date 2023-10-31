@@ -4,5 +4,6 @@
     "tags": [ "python", "helmholtz-ai", "hydra", "pytorch", "lightning" ],
     "picture": "pictures/Helmholtz-AI.png",
     "gitLink": "https://github.com/HelmholtzAI-Consultants-Munich/Quicksetup-ai",
-    "gitCheckout": "main"
+    "gitCheckout": "main",
+    "feedback": "https://github.com/HelmholtzAI-Consultants-Munich/Quicksetup-ai/issues"
 }

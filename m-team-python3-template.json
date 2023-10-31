@@ -4,5 +4,6 @@
     "tags": [ "python" ],
     "picture": "pictures/python-logo-only-small.png",
     "gitLink": "https://git.scc.kit.edu/m-team/python3-template",
-    "gitCheckout": "master"
+    "gitCheckout": "master",
+    "feedback": "https://git.scc.kit.edu/m-team/python3-template/-/issues"
 }

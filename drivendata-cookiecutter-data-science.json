@@ -4,5 +4,6 @@
     "tags": [ "python", "data science" ],
     "picture": "pictures/cookiecutter_simple_small.png",
     "gitLink": "https://github.com/drivendata/cookiecutter-data-science",
-    "gitCheckout": "v1"
+    "gitCheckout": "v1",
+    "feedback": "https://github.com/drivendata/cookiecutter-data-science/issues"
 }
