@@ -21,7 +21,8 @@ Here is the JSON structure for adding a new cookiecutter template entry:
     "tags": [],
     "picture": "",
     "gitLink": "https://github.com/user/repository",
-    "gitCheckout": ""
+    "gitCheckout": "",
+    "feedback": ""
 }
 ```
 * **"title"**: Template name, try to keep short but unique
@@ -30,3 +31,4 @@ Here is the JSON structure for adding a new cookiecutter template entry:
 * **"picture"**: a logo for your cookiecutter template, i.e. an image added in the `pictures/` directory, e.g. `pictures/cookiecutter_simple_small.png`
 * **"gitLink"**: URL to the repository of your template
 * **"gitCheckout"**: either branch, tag, or commit for the template
+* **"feedback"**: How you want to collect feedback about your template (e.g. github issues link, email list, etc)

@@ -4,5 +4,6 @@
     "tags": [ "python", "ai4os", "ai4eosc" ],
     "picture": "pictures/ai4eosc-vertical-transparent.png",
     "gitLink": "https://github.com/deephdc/cookiecutter-deep",
-    "gitCheckout": "master"
+    "gitCheckout": "master",
+    "feedback": "https://github.com/deephdc/cookiecutter-deep/issues"
 }
