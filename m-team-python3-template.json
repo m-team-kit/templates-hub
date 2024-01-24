@@ -3,7 +3,7 @@
     "summary": "A general purpose template that supports tox, pytest, pip/twine, ...",
     "tags": [ "python" ],
     "picture": "pictures/python-logo-only-small.png",
-    "gitLink": "https://git.scc.kit.edu/m-team/python3-template",
+    "gitLink": "https://codebase.helmholtz.cloud/m-team/web-doc/python3-template",
     "gitCheckout": "master",
-    "feedback": "https://git.scc.kit.edu/m-team/python3-template/-/issues"
+    "feedback": "https://codebase.helmholtz.cloud/m-team/web-doc/python3-template/-/issues"
 }
