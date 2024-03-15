@@ -4,6 +4,6 @@
     "tags": [ "python", "ai4os", "ai4eosc" ],
     "picture": "pictures/ai4eosc-vertical-transparent.png",
     "gitLink": "https://github.com/ai4os/ai4-template",
-    "gitCheckout": "2.0.0",
+    "gitCheckout": "main",
     "feedback": "https://github.com/ai4os/ai4-template/issues"
 }
