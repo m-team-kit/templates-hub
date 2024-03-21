@@ -3,7 +3,7 @@
     "summary": "An advanced template for AI4OS platform, which makes more assumptions on how to your project can be integrated",
     "tags": [ "python", "ai4os", "ai4eosc" ],
     "picture": "pictures/ai4eosc-vertical-transparent.png",
-    "gitLink": "https://github.com/deephdc/cookiecutter-deep",
-    "gitCheckout": "advanced",
-    "feedback": "https://github.com/deephdc/cookiecutter-deep/issues"
+    "gitLink": "https://github.com/ai4os/ai4-template-adv",
+    "gitCheckout": "main",
+    "feedback": "https://github.com/ai4os/ai4-template-adv/issues"
 }
