@@ -3,7 +3,7 @@
     "summary": "Template for the AI4OS platform specifically tailored to users performing a re-training of an existing AI module. Only creates a Docker repository",
     "tags": [ "python", "ai4os", "ai4eosc" ],
     "picture": "pictures/ai4eosc-vertical-transparent.png",
-    "gitLink": "https://github.com/deephdc/cookiecutter-deep",
-    "gitCheckout": "child-module",
-    "feedback": "https://github.com/deephdc/cookiecutter-deep/issues"
+    "gitLink": "https://github.com/ai4os/ai4-template-child",
+    "gitCheckout": "2.0.0",
+    "feedback": "https://github.com/ai4os/ai4-template-child/issues"
 }
