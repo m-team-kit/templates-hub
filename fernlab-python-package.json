@@ -1,0 +1,9 @@
+{
+    "title": "FERN.Lab Python package",
+    "summary": "FERN.Lab version of cookiecutter pypackage (cookiecutter-pypackage)",
+    "tags": [ "python", "FernLab" ],
+    "picture": "pictures/Fern.Lab_weiss-quadrat.png",
+    "gitLink": "https://git.gfz-potsdam.de/fernlab/products/cookiecutters/cookiecutter-python-package",
+    "gitCheckout": "main",
+    "feedback": "https://git.gfz-potsdam.de/fernlab/products/cookiecutters/cookiecutter-python-package/-/issues"
+}

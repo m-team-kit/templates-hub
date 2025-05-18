@@ -1,0 +1,9 @@
+{
+    "title": "FERN.Lab R package",
+    "summary": "Create a directory structure for a R Package using the Cookiecutter Template from FERNLab",
+    "tags": [ "R", "FernLab" ],
+    "picture": "pictures/Fern.Lab_weiss-quadrat.png",
+    "gitLink": "https://git.gfz-potsdam.de/fernlab/products/cookiecutters/cookiecutter-r-package",
+    "gitCheckout": "main",
+    "feedback": "https://git.gfz-potsdam.de/fernlab/products/cookiecutters/cookiecutter-r-package/-/issues"
+}

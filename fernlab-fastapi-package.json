@@ -1,0 +1,9 @@
+{
+    "title": "FERN.Lab FastAPI package",
+    "summary": "Create a directory structure for a R Package using the Cookiecutter Template from FERNLab",
+    "tags": [ "FastAPI", "python", "FernLab" ],
+    "picture": "pictures/Fern.Lab_weiss-quadrat.png",
+    "gitLink": "https://git.gfz-potsdam.de/fernlab/products/cookiecutters/cookiecutter-fastapi-package",
+    "gitCheckout": "main",
+    "feedback": "https://git.gfz-potsdam.de/fernlab/products/cookiecutters/cookiecutter-fastapi-package/-/issues"
+}
