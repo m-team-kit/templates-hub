@@ -1,9 +1,0 @@
-{
-    "title": "FAIR python",
-    "summary": "An opinionated cookiecutter template to kickstart a modern best-practice Python project with FAIR metadata",
-    "tags": [ "python", "FAIR", "HMC" ],
-    "picture": "pictures/FAIRPYTHONCOOKIECUTTER_Logo_Text.png",
-    "gitLink": "https://github.com/Materials-Data-Science-and-Informatics/fair-python-cookiecutter/tree/main/src/fair_python_cookiecutter/template",
-    "gitCheckout": "main",
-    "feedback": "https://github.com/Materials-Data-Science-and-Informatics/fair-python-cookiecutter/issues"
-}
