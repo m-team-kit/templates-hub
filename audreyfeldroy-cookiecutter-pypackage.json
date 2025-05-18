@@ -1,6 +1,6 @@
 {
     "title": "PyPackage",
-    "summary": "Cookiecutter template for creating a Python package",
+    "summary": "Cookiecutter template from audreyfeldroy for creating a Python package",
     "tags": ["python", "pypi"],
     "picture": "pictures/pypi-logo-tiny.png",
     "gitLink": "https://github.com/audreyfeldroy/cookiecutter-pypackage",
